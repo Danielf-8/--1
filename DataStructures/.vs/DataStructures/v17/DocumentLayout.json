@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Year-2\\Week1\\DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2660DAED-50B6-4603-8AA8-CC6CECB7E916}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Year-2\\Week1\\DataStructures\\DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2660DAED-50B6-4603-8AA8-CC6CECB7E916}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataStructures.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Year-2\\Week1\\DataStructures\\DataStructures\\DataStructures.cpp",
+              "RelativeDocumentMoniker": "DataStructures\\DataStructures.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Year-2\\Week1\\DataStructures\\DataStructures\\DataStructures.cpp",
+              "RelativeToolTip": "DataStructures\\DataStructures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T13:43:05.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
