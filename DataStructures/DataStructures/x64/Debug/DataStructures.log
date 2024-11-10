@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures\DataStructures\Queue.cpp(14,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures\DataStructures\Queue.cpp(32,15): warning C4018: '<': signed/unsigned mismatch
+  DataStructures.vcxproj -> C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures\x64\Debug\DataStructures.exe
