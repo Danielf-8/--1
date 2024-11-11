@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures-3\DataStructures-3\Stack.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures-3\DataStructures-3\Stack.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+  DataStructures-3.vcxproj -> C:\Users\Cyber_User\Documents\Magshimim\Year-2\Week1\DataStructures-3\x64\Debug\DataStructures-3.exe
